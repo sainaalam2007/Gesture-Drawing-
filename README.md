@@ -4,7 +4,7 @@ A real-time **hand gesture based drawing application** built using Python, OpenC
 
 The project allows users to draw on a virtual canvas using hand movements captured through a webcam. Different gestures can be used for drawing, erasing, clearing the canvas and selecting colors.
 
-## ✨ Features
+## ✨Features
 
 - 🖐️ Real-time hand tracking using MediaPipe
 - ✏️ Draw on a virtual canvas using hand gestures
